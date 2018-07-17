@@ -1,4 +1,4 @@
-# LUMENT SIMPLE REST API
+# LUMEN SIMPLE REST API
 made with :heart: by b0nz
 > RestAPI with Lumen 5.5
 
