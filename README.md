@@ -17,7 +17,7 @@ made with :heart: by b0nz
 
 ## Installations
 ```
-$ git clone 
+$ git clone https://github.com/b0nz/Lumen-Simple-RestAPI.git lumenRestAPI
 $ cd lumenRestAPI
 $ cp .env.example .env
 $ nano .env
